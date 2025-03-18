@@ -1,3 +1,9 @@
 # Gradle 관련
 .gradle/
 build/ 
+
+# IDE 관련 (IntelliJ, VS Code 등)
+.idea/
+
+# 특정 폴더 무시
+s1/
